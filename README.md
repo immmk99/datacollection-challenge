@@ -9,10 +9,6 @@ This project uses web scraping to gather news and climate data from Mars, aiding
 1. **Scrape Mars News**: Extract article titles and previews.
 2. **Analyze Mars Weather**: Gather and analyze weather data in a table format.
 
-### Tools and Files
-- **Required**: Module 11 Challenge files.
-- **Notebooks**: Use `part_1_mars_news.ipynb` and `part_2_mars_weather.ipynb` provided in the starter code.
-
 ### Execution Summary
 - **Part 1**: Employ Splinter and Beautiful Soup to scrape news from the Mars news website, storing data in dictionaries within a list.
 - **Part 2**: Use Beautiful Soup to scrape Mars weather data, analyze it with Pandas, and visualize climate patterns and atmospheric conditions.
